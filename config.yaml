@@ -3,17 +3,17 @@ baseURL: /
 params:
   palette: yellow
   header:
-    title: Fjord
-    tagline: Minimal and clean blog theme
+    title: Maisy Moon
+    tagline: dis dat coo cool site
     logo_img: images/logo.png
-    bg_img: images/header-bg.jpg
+    bg_img: /images/b8f6386e-beaa-4b24-a898-322282c50b3b.jpeg
     has_nav: true
-    has_social: true
+    has_social: false
   footer:
-    content: '&copy; All rights reserved.'
+    content: "&copy; All rights reserved."
     links:
-      - text: Made with Stackbit
-        url: 'https://www.stackbit.com'
+      - text: Maisy Moon
+        url: ""
         new_window: true
 disableKinds:
   - RSS
