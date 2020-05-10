@@ -1,12 +1,12 @@
-title: Stackbit Fjord Theme
+title: maisy moon
 baseURL: /
 params:
-  palette: yellow
+  palette: green
   header:
-    title: Maisy Moon
+    title: maisy moon
     tagline: dis dat coo cool site
     logo_img: images/logo.png
-    bg_img: /images/b8f6386e-beaa-4b24-a898-322282c50b3b.jpeg
+    bg_img: /images/mm-menu.jpg
     has_nav: true
     has_social: false
   footer:
