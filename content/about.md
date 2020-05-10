@@ -8,7 +8,7 @@ menu:
     weight: 2
 layout: page
 ---
-**Maisy, Mahina, Moonbeam, Sweet Girl**
+**Maisy, Mahina, Sweet Girl, Moonbeam**
 
 These are just some of the names Maisy Moon goes by these days. She's really into puzzles, singing, camping, cashews, being outside, and giving Wilder kisses.
 
