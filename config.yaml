@@ -1,7 +1,7 @@
 title: maisy moon
 baseURL: /
 params:
-  palette: green
+  palette: blue
   header:
     title: maisy moon
     tagline: dis dat coo cool site
