@@ -7,5 +7,6 @@ menu:
     weight: 6
 layout: contact
 ---
+Say hey and email me!
 
-To get in touch fill the form below.
+mahina@maisymoon.com
