@@ -4,8 +4,8 @@ params:
   palette: yellow
   header:
     title: maisy moon
-    tagline: dis dat coo cool site
-    logo_img: images/logo.png
+    tagline: ""
+    logo_img: /images/mm-logo.png
     bg_img: /images/mm-menu.jpg
     has_nav: true
     has_social: false
