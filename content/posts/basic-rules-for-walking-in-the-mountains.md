@@ -1,6 +1,6 @@
 ---
 title: Young, Wild & Three
-subtitle: Happy 3rd Birthday Maisy Moon!
+subtitle: ""
 date: 2020-05-05T10:00:00.000Z
 thumb_img_path: /images/3rd-bday.jpg
 content_img_path: ""
