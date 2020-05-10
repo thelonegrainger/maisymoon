@@ -1,20 +1,35 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+subtitle: ""
+img_path: /images/about.jpg
 menu:
   main:
     name: About
     weight: 2
 layout: page
 ---
+Maisy, Mahina, Moonbeam, Sweet Girl
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+These are just some of the names Maisy goes by these days. She's really into puzzles, singing, camping, cashews, being outside, and giving Wilder kisses.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+I was able to sit down with Maisy recently to conduct an exclusive interview the day after her 3rd birthday.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+> What were some of your favorite birthday gifts this year? *My Cake!*
+>
+> Tell me what you think of when I say these words:
+>
+> Home - *Playing outside*
+>
+> Favorite color - *Orange*
+>
+> Brother - *When me and Wilder play outside and we find things*
+>
+> Love - *When I say I love you*
+>
+> What makes you really *really* happy? *When you talk and when you rock me. Taking pictures of me with a flower and a tree. When you drive me to the park and play at the park too.*
+>
+> Are you scared of anything? *No*
+>
+> What do you think you'd like to be when you grow up? *I want to be a chef.*
+>
+> Who's the last person you kissed? *Wilder*
