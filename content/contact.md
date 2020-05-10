@@ -7,6 +7,5 @@ menu:
     weight: 6
 layout: contact
 ---
-Say hey!
-
+Say hey!\
 mahina@maisymoon.com
