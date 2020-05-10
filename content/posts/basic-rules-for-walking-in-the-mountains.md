@@ -9,4 +9,4 @@ excerpt: It was going to be Maisy's first big birthday party with all her
   ones still showed up for her!
 layout: post
 ---
-The highlight of the party (besides the cake, or rather the frosting) was a bunch of birthday wishes complied in a video for Maisy, which ended up being almost 30 minutes long! So much love for one special three year old. Happy three Maisy Moon!
+The highlight of the party (besides the cake, or rather the frosting) was a bunch of birthday wishes compiled in a video for Maisy, which ended up being almost 30 minutes long! So much love for one special three year old. Happy three Maisy Moon!
