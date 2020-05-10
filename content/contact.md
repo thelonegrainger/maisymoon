@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: Say hey!
 img_path: /images/mandw.jpg
 menu:
   main:
@@ -7,5 +7,4 @@ menu:
     weight: 6
 layout: contact
 ---
-Say hey!\
-mahina@maisymoon.com
+**mahina@maisymoon.com**
