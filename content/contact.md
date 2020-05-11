@@ -7,4 +7,3 @@ menu:
     weight: 6
 layout: contact
 ---
-**mahina@maisymoon.com**
